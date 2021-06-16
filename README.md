@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 ## Overview of the analysis:
 The purpose of this analysis is to test the performance of several different classification models on the unbalanced loan dataset. Non-numerical columns of the dataset are transformed to categorical dummy variables, with the variable generated from each first category dropped (since their information can be deterministically inferred from the other dummie variables). The goal is to test whether a model can distinguish high-risk loans from low-risk ones given some related information.
 ## Results:
